@@ -1,1 +1,2 @@
 This is my newFile
+changed new file
